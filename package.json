@@ -1,5 +1,6 @@
 {
   "name": "git-pages",
+  "homepage": "https://sinanbaymammadli.github.io/git-pages",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
